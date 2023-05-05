@@ -22,4 +22,4 @@ All the code for pre-processing, and the results are stored in `Titanic_dataset.
 - [x] Separate out validation data.
 - [x] Use Keras API to convert tensor to batches, feed data through DNN to train the model.
 - [x] Do pre-processing on test.csv to make tensors.
-- [ ] Evaluate the model and Report final accuracy.
+- [x] Evaluate the model and Report final accuracy.
