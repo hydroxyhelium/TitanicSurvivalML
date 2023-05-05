@@ -14,11 +14,12 @@ All the code for pre-processing, and the results are stored in ```Titanic_datase
 
 ### To-Do 
 
-- [x] Read in Train.csv into Pandas dataframe
-- [x] Convert Sex, Embarkment to one-hot encoding
-- [ ] Normalize Fares and Age values 
-- [x] Design a Deep Nueral Network using Keras 
-- [x] Convert train pandas dataframe to tensorflow tensor object  
-- [ ] Use Keras API to convert tensor to batches, feed data through DNN to train the model 
-- [ ] Do pre-processing on test.csv to make tensors
-- [ ] Evaluate the model and Report final accuracy 
+- [x] Read in Train.csv into Pandas dataframe.
+- [x] Convert Sex, Embarkment to one-hot encoding.
+- [x] Normalize Fares and Age values. 
+- [x] Design a Deep Nueral Network using Keras.
+- [x] Convert train pandas dataframe to tensorflow tensor object. 
+- [x] Separate out validation data.   
+- [ ] Use Keras API to convert tensor to batches, feed data through DNN to train the model. 
+- [x] Do pre-processing on test.csv to make tensors.
+- [ ] Evaluate the model and Report final accuracy. 
